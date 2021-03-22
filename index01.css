@@ -1,0 +1,89 @@
+#hr1{
+    width: 100%;
+    background-color: rgb(100, 168, 224);
+  }
+
+h1{
+    font-family:'Merriweather', serif;
+    font-size: 42px;
+    font-weight: 550;
+    color: rgb(61, 59, 59);
+    line-height: 50px;
+    width: 680px;
+    margin-left: 340px;
+    margin-right: 290px;
+    margin-bottom: 0px;
+}
+  
+h2{
+    font-family:'Noto Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(48, 46, 46);
+    line-height: 20px;
+    width: 680px;
+    margin-left: 340px;
+    margin-right: 290px;
+    margin-top: 5px;
+}
+  
+#image1{
+    width: 850px;
+    height: 500px;
+    padding: 10px 50px 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-bottom: 0px;
+}
+  
+#sub1{
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px 50px 5px;
+}
+  
+#sub2{
+    font-size: 11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 5px 50px 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 5px;
+}
+  
+#hr2{
+    width: 90%;
+    background-color: rgb(100, 168, 224);
+}
+
+
+
+
+.container{
+    width: 700px;
+    margin: auto;
+    line-height: 45px;
+}
+
+h1{
+    font-weight: 600;
+    font-size: 50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#firstp{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#blackhole{
+    width: 900px;
+    height: 450px;
+    padding: 10px 50px 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
