@@ -39,18 +39,18 @@ h2{
 #sub1{
     font-size: 12px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 150px;
-    margin-right: 150px;
-    padding: 10px 50px 5px;
+    margin-left: 200px;
+    margin-right: 180px;
+    padding-right: 5px;
+    
 }
   
 #sub2{
     font-size: 11px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 5px 50px 50px;
-    margin-left: 150px;
-    margin-right: 150px;
-    margin-bottom: 5px;
+    margin-left: 200px;
+    margin-right: 160px;
+    margin-top: 0px;
 }
   
 #hr2{
@@ -58,20 +58,18 @@ h2{
     background-color: rgb(100, 168, 224);
 }
 
-
-
-
-.container{
-    width: 700px;
-    margin: auto;
-    line-height: 45px;
+.sect1{
+	margin-left: 350px;
+  margin-right: 350px;
 }
 
-h1{
-    font-weight: 600;
-    font-size: 50px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+#video{
+	display: block;
+	margin: auto;
+	width: 630px;
+	height:350px;
 }
+
 
 #firstp{
     font-weight: 600;
