@@ -1,29 +1,30 @@
-#hr1{
-  width: 100%;
-  background-color: rgb(100, 168, 224);
+.page-design{
+  text-align: justify;
 }
 
 h1{
   font-family:'Merriweather', serif;
-  font-size: 42px;
+  font-size: 41px;
   font-weight: 550;
   color: rgb(61, 59, 59);
   line-height: 50px;
-  width: 680px;
-  margin-left: 340px;
-  margin-right: 290px;
+  width: 630px;
+  padding-right: 350px;
+  padding-left: 350px;
+  padding-top: 50px;
+  border-top: 2px solid rgb(51, 108, 155);
   margin-bottom: 0px;
 }
 
 h2{
   font-family:'Noto Sans', sans-serif;
-  font-size: 18px;
-  font-weight: 500;
-  color: rgb(48, 46, 46);
+  font-size: 17px;
+  font-weight: 550;
+  color: rgb(26, 25, 25);
   line-height: 20px;
-  width: 680px;
-  margin-left: 340px;
-  margin-right: 290px;
+  width: 600px;
+  padding-right: 350px;
+  padding-left: 350px;
   margin-top: 5px;
 }
 
@@ -53,11 +54,6 @@ h2{
   margin-bottom: 5px;
 }
 
-#hr2{
-  width: 90%;
-  background-color: rgb(100, 168, 224);
-}
-
 .sect1{
   margin-left: 350px;
   margin-right: 370px;
@@ -72,27 +68,11 @@ h2{
   margin-right: 370px;
 }
 
-#p1{
+p{
   margin-bottom: 35px;
 }
 
-#p2{
-  margin-bottom: 35px;
-}
-
-#p3{
-  margin-bottom: 35px;
-}
-
-#p4{
-  margin-bottom: 35px;
-}
-
-#ital1{
-  font-style: italic;
-}
-
-#ital2{
+.italic{
   font-style: italic;
 }
 
@@ -156,30 +136,6 @@ h2{
   margin-top: 0px;
   padding-top: 5px;
   padding-bottom: 3px;
-}
-
-#p5{
-  margin-bottom: 35px;
-}
-
-#p6{
-  margin-bottom: 35px;
-}
-
-#p7{
-  margin-bottom: 35px;
-}
-
-#p8{
-  margin-bottom: 35px;
-}
-
-#mail{
-  margin-left: 350px;
-  margin-right: 370px;
-  margin-top: 0px;
-  padding-top: 0px;
-  padding-bottom: 15px;
 }
 
 .footer{
